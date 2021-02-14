@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A full-stack developer from the midwest. I currently use Typescript, React, and Node.js to make production ready applications</h3>
+<h3 align="center">A full-stack developer from the midwest.</h3>
+
+- :computer: I currently use Python, Typescript, React, Node.js, and C
 
 - :school: I am currently a junior in high school
 
