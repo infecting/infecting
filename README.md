@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A full-stack developer from the midwest.</h3>
+<h1 align="left">Hi 👋, I'm Infecting</h1>
 
 - :computer: I currently use Python, Typescript, React, Node.js, and C
 
