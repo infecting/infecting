@@ -2,7 +2,7 @@
 
 - :computer: I currently use Python, Typescript, React, Node.js, and C
 
-- :school: I am currently a junior in high school
+- :school: I am currently a senior in high school
 
 - 👨‍💻 All of my projects are available at [https://deceptive.cc](https://deceptive.cc)
 
