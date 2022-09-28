@@ -2,8 +2,8 @@
 
 - :computer: I currently use Python, Typescript, React, Node.js, and C
 
-- :school: I am currently a senior in high school
+- :school: I am currently a freshman in college
 
 - 👨‍💻 All of my projects are available at [https://deceptive.cc](https://deceptive.cc)
 
-- 📝 I regularly write articles on [https://deceptive.medium.com/](https://deceptive.medium.com/)
+- 📝 I occasionally write articles on [https://deceptive.medium.com/](https://deceptive.medium.com/)
